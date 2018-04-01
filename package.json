@@ -1,0 +1,23 @@
+{
+  "name": "life-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+      "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarmorrison/lifeScrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarmorrison/nightmare-heroku"
+  },
+  "homepage": "https://github.com/oscarmorrison/nightmare-heroku",
+  "dependencies": {
+    "electron": "^1.6.10",
+    "nightmare": "^2.10.0"
+  }
+}
