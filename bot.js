@@ -73,4 +73,4 @@ process.on('unhandledRejection', error => {
 });
 
 
-client.login("MzgxNTgyMDU3NTA1MjkyMjk4.DaDn4g.QCTXxrPPJ4rnn7xO9mIDznzWBkc")
+client.login()
